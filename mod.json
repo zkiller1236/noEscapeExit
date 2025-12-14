@@ -8,7 +8,7 @@
 	},
 	"id": "zatanas.noescapeexit",
 	"name": "noEscapeExit",
-	"version": "v1.0.1",
+	"version": "v1.0.2",
 	"icon": "icon.png",
 	"developer": "zatanas",
 	"description": "pressing escape twice will no longer exit the level. instead, it will resume it."
